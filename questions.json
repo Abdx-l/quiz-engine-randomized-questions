@@ -1,0 +1,7 @@
+[
+  {"id":"q1","type":"single","prompt":"Which protocol resolves domain names?","options":["DNS","HTTP","SMTP"],"answer":"DNS"},
+  {"id":"q2","type":"multi","prompt":"Select transport protocols","options":["TCP","UDP","IP"],"answer":["TCP","UDP"]},
+  {"id":"q3","type":"boolean","prompt":"A byte has eight bits","answer":true},
+  {"id":"q4","type":"numeric","prompt":"What is 2 squared?","answer":4,"tolerance":0.01}
+]
+
